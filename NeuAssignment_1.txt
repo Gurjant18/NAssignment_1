@@ -1,0 +1,39 @@
+              ASSIGNMENT-1
+Q-1:Why Do Computers understand only binary language?
+Ans: Computers Understand Only binary language that is only in form of 1s and 0s That is because Computer's Memory Contain Capacitors And each of them can present high voltage that present 1s or Low voltage which present 0s so that is why Computer understand only binary that is in form of 1s and 0s only.
+
+Q-2:What is the full form of IDE?
+Ans: IDE:-Integrated Development Environment.
+
+Q-3:What is the difference between Text editor and code editor?
+Ans: Actually Text editor is a Simple tool to edit Any text but we can use it as a code editor but text editor don't have any idea that we are Edting code in it. whereas code editor is also a tool which is same like text editor but code editor have idea that we are edting code in it according to that it present identifiers of code in different colors for easy understanding.
+
+Q-4:What are The Steps To Develop Software Using C language?
+Ans: 1. You Have to Write Code Of Your Program.
+     2. Your Code will Then Proceed Next Step which is done by Preprocessor.
+     3. Then your Code will be Compiled by a Compiler.
+     4. Finally Linker will Link different 
+      header files with your code and Produce Complete .exe Extension file which can be Executed in your Computer.
+      
+ Q-5: Explore Your Own-
+    (a) What is The Latest version of C language?
+    - C17
+    (b) Who Develop C language?
+    - Denis Ritchie in AT & T bell labs USA in 1972.
+    (c) What is The difference between Application and System software?
+    - System Software is Software which is Used to Run Entire Computer's Operation Whereas Application Software is Also a Software used for Specific Task and Can be Installed easily.
+    (d) How To convert a decimal number system to binary number system?
+    -*The value of bits Increase in order of Power of 2^n where n is position of bits from right to left and intially it is '0':
+        Binary:0101
+        here From right side Value of first bit is 1 but in decimal form it is 2^0=1 
+        then from right side Value of second bit is 0 and in decimal form it is 2^1=2 and for others
+          3rd bit from right 2^2=4
+          4th bit from right 2^3=8
+          So:- For binary:0101
+          1=1*1=1
+          0=0*2=0
+          1=1*4=4
+          0=0*8=0   So 4+1= 5(decimal)=0101 in binary
+#THANKS 
+               
+        
