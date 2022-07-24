@@ -12,7 +12,8 @@ Q-4:What are The Steps To Develop Software Using C language?
 Ans: 1. You Have to Write Code Of Your Program.
      2. Your Code will Then Proceed Next Step which is done by Preprocessor.
      3. Then your Code will be Compiled by a Compiler.
-     4. Finally Linker will Link different 
+     4. After that your program go through Assembler and produce.obj file.
+     5. Finally Linker will Link different 
       header files with your code and Produce Complete .exe Extension file which can be Executed in your Computer.
       
  Q-5: Explore Your Own-
